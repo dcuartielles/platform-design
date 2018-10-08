@@ -4,6 +4,10 @@ Platform Design is the repository including the text created by D. Cuartielles f
 
 First edition published by Malmo University Press, 2018. 
 
+## Disclaimer
+
+This is the pre-press document. There are some small changes betweek these files and the one that ended up being printed. Mainly numbering and linking to images, the omission of the acknowledgements, the lack of an index file, and one small mistake in one of the main references.
+
 ## Author
 
 David J. Cuartielles, PhD Candidate, Malmo University, Sweden
