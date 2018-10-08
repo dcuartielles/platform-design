@@ -20,6 +20,6 @@ All of the chapters in this thesis are licensed under CC BY-SA-NC 4.0
 
 ## More information
 
-You can download the PDF version of the thesis from: [muep.mau.se/handle/2043/26130]
+You can download the PDF version of the thesis from: https://muep.mau.se/handle/2043/26130
 
 
