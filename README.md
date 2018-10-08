@@ -22,4 +22,4 @@ All of the chapters in this thesis are licensed under CC BY-SA-NC 4.0
 
 You can download the PDF version of the thesis from: https://muep.mau.se/handle/2043/26130
 
-
+If you want to buy the book in it's printed format, visit: https://abierto.cc/shop/product/59632/Platform-Design-doctoral-thesis/
