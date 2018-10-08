@@ -4,6 +4,22 @@ Platform Design is the repository including the text created by D. Cuartielles f
 
 First edition published by Malmo University Press, 2018. 
 
+## Author
+
+David J. Cuartielles, PhD Candidate, Malmo University, Sweden
+
+## Advisers
+
+* Prof. Maria Hellstrom-Reimer, Malmo University
+
+* Doz. Daniel Spikol, Malmo University
+
 ## License
 
 All of the chapters in this thesis are licensed under CC BY-SA-NC 4.0
+
+## More information
+
+You can download the PDF version of the thesis from: [muep.mau.se/handle/2043/26130]
+
+
