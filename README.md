@@ -22,6 +22,9 @@ David J. Cuartielles, PhD Candidate, Malmo University, Sweden
 
 All of the chapters in this thesis are licensed under CC BY-SA-NC 4.0
 
+## Translations
+This document has been translated to Spanish. All chapters plus a pre-print version in PDF format are available under the folder ['es']. Some elements of the final work are unavailable, as they were not available in this repository. Please check the complete version in the link below to view the images and annexes.
+
 ## More information
 
 You can download the PDF version of the thesis from: https://muep.mau.se/handle/2043/26130
